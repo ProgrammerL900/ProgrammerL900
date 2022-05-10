@@ -8,6 +8,6 @@ About me:
 - ✅: Programming langauges learned Java/C++
 -  💡: Most my work is available on Github
 - 📫 How to reach me: email, LinkedIn, Handshake, or Indeed
--->
+
 
 
