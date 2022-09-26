@@ -14,9 +14,13 @@ Platforms used: VS Code, and JGrasp, Visual Studio, Greenfoot
 
 Coursework: 
 [COMP 1210](https://github.com/ProgrammerL900/COMP-1210) - Fundamentals of Computing I
+
 ENGR 1110 - Intro to Software Engineeing
+
 COMP 2210 - Fundamentals of Computer II
+
 COMP 3240 - Discrete Structures
+
 COMP 2710 - Software Construction
 
 Current coursework:
