@@ -13,7 +13,7 @@ About me:
 Platforms used: VS Code, and JGrasp, Visual Studio, Greenfoot
 
 Coursework: 
-COMP 1210(repositories/COMP1210) - Fundamentals of Computing I
+COMP 1210(repositories/COMP1210.md) - Fundamentals of Computing I
 ENGR 1110 - Intro to Software Engineeing
 COMP 2210 - Fundamentals of Computer II
 COMP 3240 - Discrete Structures
