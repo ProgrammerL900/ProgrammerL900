@@ -10,7 +10,22 @@ About me:
 - 📫 How to reach me: email, [LinkedIn](https://www.linkedin.com/in/laura-wilson-806093232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt8GVzFcnSmGk%2BwY%2B9EF4Ug%3D%3D), or [Handshake](https://auburn.joinhandshake.com/stu/users/26064156)
 
 
-Platforms used: VS Code, and JGrasp
+Platforms used: VS Code, and JGrasp, Visual Studio, Greenfoot
+
+Coursework: 
+COMP 1210[ - Fundamentals of Computing I
+ENGR 1110 - Intro to Software Engineeing
+COMP 2210 - Fundamentals of Computer II
+COMP 3240 - Discrete Structures
+COMP 2710 - Software Construction
+
+Current coursework:
+COMP 3350 - Computer Organization and assembly language programming
+COMP 3270 - Intro to Algorithms
+COMP 3220 - Principles of programming lanuages
+
+
+
 
 
 
