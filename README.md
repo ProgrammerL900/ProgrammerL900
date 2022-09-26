@@ -13,19 +13,23 @@ About me:
 Platforms used: VS Code, and JGrasp, Visual Studio, Greenfoot
 
 Coursework: 
+
 [COMP 1210](https://github.com/ProgrammerL900/COMP-1210) - Fundamentals of Computing I
 
-ENGR 1110 - Intro to Software Engineeing
+[ENGR 1110](https://github.com/ProgrammerL900/ENGR-1100) - Intro to Software Engineeing
 
-COMP 2210 - Fundamentals of Computer II
+[COMP 2210](https://github.com/ProgrammerL900/COMP-2210) - Fundamentals of Computer II
 
 COMP 3240 - Discrete Structures
 
-COMP 2710 - Software Construction
+[COMP 2710](https://github.com/ProgrammerL900/COMP-2710) - Software Construction
 
 Current coursework:
+
 COMP 3350 - Computer Organization and assembly language programming
+
 COMP 3270 - Intro to Algorithms
+
 COMP 3220 - Principles of programming lanuages
 
 
