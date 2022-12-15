@@ -24,17 +24,17 @@ COMP 3240 - Discrete Structures
 
 [COMP 2710](https://github.com/ProgrammerL900/COMP-2710) - Software Construction
 
-COMP 3350 - Computer Organization and assembly language programming
+[COMP 3350](https://github.com/ProgrammerL900/COMP-3350)- Computer Organization and assembly language programming
 
 [COMP 3220](https://github.com/ProgrammerL900/COMP-3220) - Principles of programming lanuages
 
 
 
-COMP 3270 Introduction to Algorithms
+[COMP 3270](https://github.com/ProgrammerL900/COMP-3270) - Introduction to Algorithms
 
-COMP 3500 Introduction to Operating Systems
+[COMP 3500](https://github.com/ProgrammerL900/COMP-3500) - Introduction to Operating Systems
 
-COMP 3700 Software Modeling and Design
+[COMP 3700](https://github.com/ProgrammerL900/COMP-3700) - Software Modeling and Design
 
 
 
