@@ -9,7 +9,7 @@ About me:
 - 📫 How to reach me: email (lgwilson75@gmail.com), [LinkedIn](https://www.linkedin.com/in/laura-wilson-806093232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt8GVzFcnSmGk%2BwY%2B9EF4Ug%3D%3D), or [Handshake](https://auburn.joinhandshake.com/stu/users/26064156)
 
 
-Platforms used: VS Code, and JGrasp, Visual Studio, Greenfoot, IntelliJ
+Platforms used: VS Code, and JGrasp, Visual Studio, Greenfoot, IntelliJ, Ubuntu, PuTTY
 
 Coursework: 
 
