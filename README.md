@@ -37,4 +37,18 @@ COMP 3240 - Discrete Structures
 
 
 
+[COMP 5700](https://github.com/ProgrammerL900/COMP-5700) - Secure Software Process
+
+[COMP 4300](https://github.com/ProgrammerL900/COMP-4300) - Computer Architecture
+
+[COMP 4200](https://github.com/ProgrammerL900/COMP-4200) - Formal Languages
+
+[COMP 5350](https://github.com/ProgrammerL900/COMP-5350) - Digital Forensics
+
+
+
+[COMP 4320](https://github.com/ProgrammerL900/COMP-4320) - Introduction to computer networks
+
+
+
 
