@@ -4,7 +4,7 @@ I am currently a student at Auburn University pursuing a undergraduate in Comput
 
 About me:
 
-- ✅: Programming langauges learned Java, C++, Ruby, R, Assembly Language, C
+- ✅: Programming langauges learned Java, C++/C, Ruby, R, Assembly Language, Python
 -  💡: Most my work is available on Github
 - 📫 How to reach me: email (lgwilson75@gmail.com), [LinkedIn](https://www.linkedin.com/in/laura-wilson-806093232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt8GVzFcnSmGk%2BwY%2B9EF4Ug%3D%3D), or [Handshake](https://auburn.joinhandshake.com/stu/users/26064156)
 
