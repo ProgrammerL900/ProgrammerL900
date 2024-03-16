@@ -48,10 +48,15 @@ COMP 3240 - Discrete Structures
 
 
 [COMP 4320](https://github.com/ProgrammerL900/COMP-4320) - Introduction to computer networks
+
 [COMP 4710](https://github.com/ProgrammerL900/COMP-4710) - Senior Design
+
 [COMP 5120](https://github.com/ProgrammerL900/COMP-5120) - Database system 1
+
 [COMP 5630](https://github.com/ProgammerL900/COMP-5630) - Machine Learning
+
 [COMP 5600](https://github.com/ProgrammerL900/COMP-5600) - Intro to AI
+
 [COMP 4730](https://github.com/ProgrammerL900/COMP-4730) - Computer Ethics
 
 
