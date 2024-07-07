@@ -59,5 +59,7 @@ COMP 3240 - Discrete Structures
 
 [COMP 4730](https://github.com/ProgrammerL900/COMP-4730) - Computer Ethics
 
+[COMP 5970](https://github.com/ProgrammerL900/COMP-5970) - Secure Software Development
+
 
 
