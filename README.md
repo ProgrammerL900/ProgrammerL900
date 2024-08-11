@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Laura Wilson 
 
-I am currently a student at Auburn University pursuing a undergraduate in Computer Science. 
+I graduated from Auburn with a Bachelor of Science in Computer Science.
 
 About me:
 
